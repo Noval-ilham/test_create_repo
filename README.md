@@ -67,4 +67,11 @@ Menampilkan 8 pelanggan teratas berdasarkan kontribusi penjualan:
 
 ---
 
+## 📁 Cara Menggunakan Dashboard
+1. Download berkas `.pbix` dari repositori ini.
+2. Buka berkas menggunakan **Power BI Desktop**.
+3. Gunakan filter **Year** dan **Country** untuk melihat analisis secara spesifik.
+
+---
+
 *Dibuat oleh Noval Ilham Arfiansyah*
